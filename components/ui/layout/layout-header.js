@@ -5,6 +5,7 @@ import styles from "./layout-header.module.css";
 function LayoutHeader() {
   return (
     <div>
+      버젼연습
       <header className={styles.headerForWeb}>
         <LayoutHeaderForWeb />
       </header>
